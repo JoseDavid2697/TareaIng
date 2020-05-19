@@ -1,0 +1,16 @@
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\obj\Debug\TareaIngenieria.Infraestructure.Data.csprojAssemblyReference.cache
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\obj\Debug\TareaIngenieria.Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\bin\Debug\TareaIngenieria.Infraestructure.Data.dll.config
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\bin\Debug\TareaIngenieria.Infraestructure.Data.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\bin\Debug\TareaIngenieria.Infraestructure.Data.pdb
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\bin\Debug\TareaIngenieria.Domain.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\bin\Debug\TareaIngenieria.Domain.Entities.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\bin\Debug\TareaIngenieria.Domain.Entities.pdb
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\bin\Debug\TareaIngenieria.Domain.pdb
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\obj\Debug\TareaIngenieria.Infraestructure.Data.csproj.CopyComplete
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\obj\Debug\TareaIngenieria.Infraestructure.Data.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Infraestructure.Data\obj\Debug\TareaIngenieria.Infraestructure.Data.pdb

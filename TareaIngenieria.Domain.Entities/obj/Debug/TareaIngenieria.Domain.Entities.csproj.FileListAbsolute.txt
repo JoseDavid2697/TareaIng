@@ -1,0 +1,6 @@
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Entities\bin\Debug\TareaIngenieria.Domain.Entities.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Entities\bin\Debug\TareaIngenieria.Domain.Entities.pdb
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Entities\obj\Debug\TareaIngenieria.Domain.Entities.csprojAssemblyReference.cache
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Entities\obj\Debug\TareaIngenieria.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Entities\obj\Debug\TareaIngenieria.Domain.Entities.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Entities\obj\Debug\TareaIngenieria.Domain.Entities.pdb

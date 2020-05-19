@@ -1,0 +1,11 @@
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Core\bin\Debug\TareaIngenieria.Domain.Core.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Core\bin\Debug\TareaIngenieria.Domain.Core.pdb
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Core\bin\Debug\TareaIngenieria.Domain.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Core\bin\Debug\TareaIngenieria.Domain.Entities.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Core\bin\Debug\TareaIngenieria.Domain.Entities.pdb
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Core\bin\Debug\TareaIngenieria.Domain.pdb
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Core\obj\Debug\TareaIngenieria.Domain.Core.csprojAssemblyReference.cache
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Core\obj\Debug\TareaIngenieria.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Core\obj\Debug\TareaIngenieria.Domain.Core.csproj.CopyComplete
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Core\obj\Debug\TareaIngenieria.Domain.Core.dll
+C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Core\obj\Debug\TareaIngenieria.Domain.Core.pdb
