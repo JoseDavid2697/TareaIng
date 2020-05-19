@@ -4,3 +4,7 @@ C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Entities\obj\
 C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Entities\obj\Debug\TareaIngenieria.Domain.Entities.csproj.CoreCompileInputs.cache
 C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Entities\obj\Debug\TareaIngenieria.Domain.Entities.dll
 C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain.Entities\obj\Debug\TareaIngenieria.Domain.Entities.pdb
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain.Entities\bin\Debug\TareaIngenieria.Domain.Entities.dll
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain.Entities\bin\Debug\TareaIngenieria.Domain.Entities.pdb
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain.Entities\obj\Debug\TareaIngenieria.Domain.Entities.dll
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain.Entities\obj\Debug\TareaIngenieria.Domain.Entities.pdb

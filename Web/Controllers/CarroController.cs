@@ -14,33 +14,15 @@ namespace Web.Controllers
         public CarroController(ICarroAppService app)
         {
             this.app = app;
-        }
+        }//Constructor
 
-        // GET: Carro
+
         public ActionResult Index()
         {
             return View(this.app.getAll());
-        }
+        }//Index
 
-        // GET: Carro/Details/5
-        public ActionResult Details(int id)
-        {
-            Carro carro = this.app.getById(id); //Le obtenemos la información de un permiso
-            if (carro == null)
-            {
-                return HttpNotFound();
-            }
-            return View(carro);
-           
-        }
 
-        // GET: Carro/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: Carro/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(Carro carro)
@@ -55,55 +37,47 @@ namespace Web.Controllers
                     return RedirectToAction("Index");
                 }
             }//Fin del if
-            return View(carro);
-        }
+            return View("Index");
+        }//Create
 
-        // GET: Carro/Edit/5
-        public ActionResult Edit(int id)
+
+        [HttpGet]
+        public ActionResult Update(int id)
         {
             Carro carro = this.app.getById(id);
             if (carro == null)
             {
                 return HttpNotFound();
             }
-            return View(carro);
-        }
+            return View("Update", carro);
+        }//Edit
 
-        // POST: Carro/Edit/5
+
         [HttpPost]
-        public ActionResult Edit(Carro carro)
+        public ActionResult Save(Carro carro)
         {
             if (ModelState.IsValid)
             {
-                //Se valida que el nombre sea único en la base de datos
-                if (this.nameUnique(carro.Placa.ToString(), carro.ID))
-                {
-                    this.app.modify(carro);
-                    return RedirectToAction("Index");
-                }
+                this.app.modify(carro);
+
+                return RedirectToAction("Index");
             }//Fin del if
 
-            return View(carro);
-        }
+            return View("Update",carro);
+        }//Save
 
-        // GET: Carro/Delete/5
-        public ActionResult Delete(int id)
-        {
-            Carro carro = this.app.getById(id);
-            if (carro == null)
-            {
-                return HttpNotFound();
-            }
-            return View(carro);
-        }
 
-        // POST: Carro/Delete/5
-        [HttpPost]
+        [HttpGet]
         public ActionResult Delete(int id, FormCollection collection)
         {
             this.app.delete(id);
             return RedirectToAction("Index");
-        }
+        }//Delete
+
+        public ActionResult ShowCreate()
+        {
+            return View("Create");
+        }//MostrarCrear
 
 
         private Boolean nameUnique(string placa, int id)
@@ -115,11 +89,10 @@ namespace Web.Controllers
             {
                 if (current.Placa.ToString() == placa)
                 {
-                    //Si son iguales lo que está es actualizando, en caso contrario es un nuevo registro
                     return (current.ID == id);
-                }//Fin del if
-            }//Fin del foreach
+                }//if
+            }//foreach
             return true;
-        }//fin del método nameUnique
+        }//nameUnique
     }
 }

@@ -7,3 +7,11 @@ C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain\obj\Debug\Tar
 C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain\obj\Debug\TareaIngenieria.Domain.csproj.CopyComplete
 C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain\obj\Debug\TareaIngenieria.Domain.dll
 C:\Users\josed\source\repos\TareaIngenieria\TareaIngenieria.Domain\obj\Debug\TareaIngenieria.Domain.pdb
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain\bin\Debug\TareaIngenieria.Domain.dll
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain\bin\Debug\TareaIngenieria.Domain.pdb
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain\bin\Debug\TareaIngenieria.Domain.Entities.dll
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain\bin\Debug\TareaIngenieria.Domain.Entities.pdb
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain\obj\Debug\TareaIngenieria.Domain.csprojAssemblyReference.cache
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain\obj\Debug\TareaIngenieria.Domain.csproj.CopyComplete
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain\obj\Debug\TareaIngenieria.Domain.dll
+C:\Users\XPC\source\repos\TareaIng\TareaIngenieria.Domain\obj\Debug\TareaIngenieria.Domain.pdb
